@@ -15,7 +15,7 @@
 
         var service = {
            
-            clientId: 'dabc0641-14b9-4c5f-8956-73693bbc3821',
+            clientId: '[INSERT CLIENT ID HERE]',
             redirectShort: "http://localhost/callback",
             redirectUri: "http://localhost/callback.html",
             scopes: "Sites.ReadWrite.All User.Read",
